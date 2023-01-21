@@ -1,0 +1,1 @@
+org.springframework.test.context.ContextCustomizerFactory = com.iven.inv_gen.config.TestContainersSpringContextCustomizerFactory
